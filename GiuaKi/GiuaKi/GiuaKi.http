@@ -1,0 +1,6 @@
+@GiuaKi_HostAddress = http://localhost:5102
+
+GET {{GiuaKi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

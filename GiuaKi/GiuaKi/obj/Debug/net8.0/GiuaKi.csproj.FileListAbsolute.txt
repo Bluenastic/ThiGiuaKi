@@ -1,0 +1,7 @@
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.csproj.AssemblyReference.cache
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.AssemblyInfoInputs.cache
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.AssemblyInfo.cs
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.csproj.CoreCompileInputs.cache
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\XUAN ANH\source\repos\GiuaKi\GiuaKi\obj\Debug\net8.0\GiuaKi.MvcApplicationPartsAssemblyInfo.cache
